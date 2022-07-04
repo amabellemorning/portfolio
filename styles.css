@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: normal;
+    color: black;
+}
+body {
+    background-image: url("Untitled-Artwork.jpg");
+}
+button {
+    color: aliceblue;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    length: 500px;
+}
